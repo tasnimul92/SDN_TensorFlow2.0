@@ -1,0 +1,10 @@
+{"matchTcpUdpPorts": "True","matchVlanId": "True", "matchIcmpFields": "True", "matchIpv4Dscp": "True", "matchIpv4Address": "True","matchDstMacOnly": "false"}
+{"matchIcmpFields": "false","matchTcpUdpPorts": "false", "matchVlanId": "false", "matchIpv4Dscp": "false", "matchIpv4Address": "false","matchDstMacOnly": "True"}
+{"matchTcpUdpPorts": "false","matchVlanId": "false", "matchIcmpFields": "True", "matchIpv4Dscp": "false", "matchIpv4Address": "True","matchDstMacOnly": "false"}
+{"matchTcpUdpPorts": "false","matchVlanId": "True", "matchIcmpFields": "True", "matchIpv4Dscp": "false", "matchIpv4Address": "True","matchDstMacOnly": "false"}
+{"matchTcpUdpPorts": "false","matchVlanId": "false", "matchIcmpFields": "True", "matchIpv4Dscp": "True", "matchIpv4Address": "True","matchDstMacOnly": "false"}
+{"matchTcpUdpPorts": "false","matchVlanId": "True", "matchIcmpFields": "True", "matchIpv4Dscp": "True", "matchIpv4Address": "True","matchDstMacOnly": "false"}
+{"matchIcmpFields": "false","matchTcpUdpPorts": "True", "matchVlanId": "false", "matchIpv4Dscp": "false", "matchIpv4Address": "True","matchDstMacOnly": "false"}
+{"matchIcmpFields": "false","matchTcpUdpPorts": "True", "matchVlanId": "True", "matchIpv4Dscp": "false", "matchIpv4Address": "True","matchDstMacOnly": "false"}
+{"matchIcmpFields": "false","matchTcpUdpPorts": "True", "matchVlanId": "false", "matchIpv4Dscp": "True", "matchIpv4Address": "True","matchDstMacOnly": "false"}
+{"matchIcmpFields": "false","matchTcpUdpPorts": "True", "matchVlanId": "True", "matchIpv4Dscp": "True", "matchIpv4Address": "True","matchDstMacOnly": "false"}
